@@ -29,10 +29,4 @@ test_release(
 
             {
                 is $self->data->distribution, 'weblint',
-                    'distribution matches META name, but strips out ++';
-            }
-        },
-    }
-);
-
-done_testing;
+                    'distribution matches {meta}
