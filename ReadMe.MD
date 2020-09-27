@@ -130,4 +130,4 @@ Access it via web interface: https://chat.mibbit.com/?channel=%23metacpan&server
 IRC logs can be found here:
 [http://irclog.perlgeek.de/metacpan/today](http://irclog.perlgeek.de/metacpan/today)
 (Thanks to [Moritz Lenz](http://moritz.faui2k3.org/) for making this service
-available)
+available){meta}
